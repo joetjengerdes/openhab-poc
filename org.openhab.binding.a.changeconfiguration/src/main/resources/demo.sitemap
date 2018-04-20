@@ -1,0 +1,8 @@
+sitemap demo label="Main Menu"
+{
+	Frame {
+		Text label="<script>alert('This is a vulnerability');</script>" icon="fire"
+	}
+}
+
+// vim: syntax=Xtend
